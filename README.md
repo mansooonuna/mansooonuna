@@ -3,7 +3,7 @@
  
   ### 🌼 Da Som 🌼
  
-<!-- <a href="https://github.com/mansooonuna"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> -->
+ <a href="https://github.com/mansooonuna"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmansooonuna&count_bg=%23F060E6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--"<a href="https://mansooonuna.notion.site/Dasom-s-Portfolio-586f9e83d91a48eba57131992ffff8fd?pvs=4"><img src="https://img.shields.io/badge/Portfolio-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://mansooonuna.notion.site/Dasom-s-Portfolio-586f9e83d91a48eba57131992ffff8fd?pvs=4"/></a> -->
  ---
